@@ -77,6 +77,6 @@ ligne` === 'Saut\nligne)
 
 Sources
 -------------
-https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Litt%C3%A9raux_gabarits
-https://developers.google.com/web/updates/2015/01/ES6-Template-Strings
-http://exploringjs.com/es6/ch_template-literals.html
+- https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Litt%C3%A9raux_gabarits
+- https://developers.google.com/web/updates/2015/01/ES6-Template-Strings
+- http://exploringjs.com/es6/ch_template-literals.html
